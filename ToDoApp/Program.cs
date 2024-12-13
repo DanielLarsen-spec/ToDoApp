@@ -6,7 +6,7 @@ Lag en todo app! Du skal kunne legge til oppgaver, slette dem og gå inn på en 
 
 using ToDoApp;
     var oppgave = new Begin();
-    oppgave.Run();
+    oppgave.Meny();
 
 
 
